@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshen Dhami</h1>
 <h3 align="center">From Pixels to Predictions: A Journey in Tech 🖥️🔮📈"</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FSupianIDz%2FSupianIDz%2Fmain%2Fcoding.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&docid=dhiOHTa81iEZmM&tbnid=55jyr3BK5duBpM&vet=12ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshen22&label=Profile%20views&color=0e75b6&style=flat" alt="akshen22" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **akshendhami@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link](https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link)
+- 📄 Know about my meexperiences [https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link](https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshen22&show_icons=true&locale=en" alt="akshen22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshen22&" alt="akshen22" /></p>
+ 
