@@ -1,5 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw3xhPhrq9FYOxdpFa5bv8qa&ust=1722969287087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCL3Mq_3ocDFQAAAAAdAAAAABAK)
-
 <h1 align="center">Hi 👋, I'm Akshen Dhami</h1>
 <h3 align="center">From Pixels to Predictions: A Journey in Tech 🖥️🔮📈"</h3>
 
