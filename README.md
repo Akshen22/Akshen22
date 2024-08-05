@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akshendhami@gmail.com**
 
-- 📄 Know about my meexperiences [https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link](https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link](https://drive.google.com/file/d/177EBRtAE6SPxi6uO6vrp2NFIrxkHYnbf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
