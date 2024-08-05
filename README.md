@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshen Dhami</h1>
 <h3 align="center">From Pixels to Predictions: A Journey in Tech 🖥️🔮📈"</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FSupianIDz%2FSupianIDz%2Fmain%2Fcoding.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&docid=dhiOHTa81iEZmM&tbnid=55jyr3BK5duBpM&vet=12ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FSupianIDz%2FSupianIDz%2Fmain%2Fcoding.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&docid=dhiOHTa81iEZmM&tbnid=55jyr3BK5duBpM&vet=12ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjYhLHkvt6HAxWcTGwGHe7nOzcQM3oECF4QAA](https://images.app.goo.gl/9V4FEUga5bef5izB8)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshen22&label=Profile%20views&color=0e75b6&style=flat" alt="akshen22" /> </p>
 
