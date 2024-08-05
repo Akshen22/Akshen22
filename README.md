@@ -1,5 +1,6 @@
-<img align="center" width="250" src="https://github.com/user-attachments/assets/26c3b6ea-bb5a-407c-8a9e-2e6b86d75225">
-
+<div align="center">
+    <img width="250" src="https://github.com/user-attachments/assets/26c3b6ea-bb5a-407c-8a9e-2e6b86d75225">
+</div>
 
 <h1 align="center">Hi 👋, I'm Akshen Dhami</h1>
 <h3 align="center">From Pixels to Predictions: A Journey in Tech 🖥️🔮📈"</h3>
