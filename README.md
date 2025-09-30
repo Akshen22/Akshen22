@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshen22" alt="akshen22" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Big Data Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshen22?tab=repositories](https://github.com/Akshen22?tab=repositories)
 
