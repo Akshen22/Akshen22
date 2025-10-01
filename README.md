@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Developer, Data Science**
 
-- 📫 How to reach me **akshendhami@gmail.com**
+- 📫 How to reach me **akshendhami@gmail.com** **https://www.linkedin.com/in/akshen-dhami22**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZTANpZxWmiA2nwGbEPdek8MVW_P5EtQ0/view?usp=drive_link](https://drive.google.com/file/d/1ZTANpZxWmiA2nwGbEPdek8MVW_P5EtQ0/view?usp=drive_link)
 
